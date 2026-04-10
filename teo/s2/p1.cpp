@@ -1,5 +1,5 @@
 /*
-    Example 5.
+    Example 1.
     Given two numbers, find the greater number by only using switch()
 */
 

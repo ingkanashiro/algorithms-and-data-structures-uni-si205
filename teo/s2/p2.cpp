@@ -1,5 +1,5 @@
 /*
-    Example 6.
+    Example 2.
     Given three dates (dd/mm/yy), determine the latest.
 */
 

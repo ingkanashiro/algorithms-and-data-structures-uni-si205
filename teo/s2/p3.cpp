@@ -1,5 +1,5 @@
 /*
-    Example 6.
+    Example 3.
     Given three dates (dd/mm/yy), sort them latest to oldest.
 */
 
