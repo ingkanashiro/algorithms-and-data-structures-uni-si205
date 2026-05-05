@@ -32,7 +32,7 @@ int main() {
             continue;
         }
         
-        // Insert5 
+        // Insert 
         int j = 0;
         while (j < i) {
 
