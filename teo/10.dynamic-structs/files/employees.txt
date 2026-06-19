@@ -1,0 +1,5 @@
+111     Contador        2500
+222     Administrador   3000
+333     Civil           1700
+444     Contador        2000
+555     Contador        3000
