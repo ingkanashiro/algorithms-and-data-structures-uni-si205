@@ -1,0 +1,4 @@
+27.5MI      20.5MA      -10.5MI     23JU        23JU
+30SA        -12.8JU     23MA        16DO        16DO
+18LU        -5MA        11.7MI      17VI        17VI
+23MA        18LU        11MI        23JU        21JU

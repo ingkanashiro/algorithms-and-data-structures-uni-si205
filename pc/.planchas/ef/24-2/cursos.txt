@@ -1,0 +1,4 @@
+b0001   Analítica       Básicas
+s0002   Compiladores    Sistemas
+b0002   Lineal          Básicas
+g0001   Costos          Gestión
