@@ -1,0 +1,5 @@
+LINCE           30  M
+RIMAC           45  F
+LA-MOLINA       25  M
+RIMAC           22  F
+LINCE           28  M

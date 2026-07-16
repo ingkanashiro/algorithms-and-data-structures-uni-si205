@@ -1,0 +1,7 @@
+LINCE               30  M   POSITIVO
+RIMAC               45  F   NEGATIVO
+LA-MOLINA           25  M   NEGATIVO
+RIMAC               22  F   POSITIVO
+LINCE               28  M   NEGATIVO
+LOS-OLIVOS          30  M   POSITIVO
+PUEBLO-LIBRE        30  F   NEGATIVO
